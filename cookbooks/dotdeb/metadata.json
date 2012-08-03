@@ -1,0 +1,32 @@
+{
+  "attributes": {
+  },
+  "replacing": {
+  },
+  "recommendations": {
+  },
+  "version": "0.1.4",
+  "maintainer_email": "wik@rentasite.com.ua",
+  "maintainer": "Yevgeniy Viktorov",
+  "long_description": "",
+  "description": "Dotdeb repositories",
+  "platforms": {
+    "debian": ">= 0.0.0"
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "license": "Apache 2.0",
+  "recipes": {
+    "dotdeb": "main Dotdeb repository",
+    "dotdeb::php53": "php53 Dotdeb repository"
+  },
+  "name": "dotdeb",
+  "groupings": {
+  },
+  "suggestions": {
+  },
+  "dependencies": {
+  }
+}
